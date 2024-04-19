@@ -1,5 +1,5 @@
 # Introduction to R: Dealing with Missing Values
-![Uploading image.png…]()
+![image](https://github.com/Coder-Aman-Sahu/R-practice/assets/113002116/b54cbbb2-27b2-456f-8d66-f630c3bd6966)
 
 Welcome to the repository where we tackle one of the most common issues in data analysis: **missing values**. This repository is dedicated to practicing and understanding various methods to handle missing data in R.
 
